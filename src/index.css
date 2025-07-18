@@ -1,0 +1,33 @@
+src/index.css
+css
+Copy
+Edit
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f2f5;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  max-width: 600px;
+  margin: 50px auto;
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+input {
+  width: 80%;
+  padding: 10px;
+  margin-right: 10px;
+}
+button {
+  padding: 10px 15px;
+}
+.error {
+  color: red;
+  margin-top: 10px;
+}
+.result {
+  margin-top: 20px;
+}
